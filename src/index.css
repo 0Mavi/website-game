@@ -5,11 +5,12 @@
 @tailwind utilities;
 
 body {
-  width: 100dvw;
   overflow-x: hidden;
+  width: 100dvw;
   background-color: #dfdff0;
   font-family: "General Sans", sans-serif;
 }
+
 
 @layer base {
   @font-face {
